@@ -32,8 +32,30 @@ h1 {
 
 h3 {
 	font-family: 'Space Mono', monospace;
-	color: orange;
+	color: white;
 	padding-right: 10px;
 	padding-bottom: 10px;
 }
 
+.game-of-thrones {
+    background: black;
+    border-radius: 12px;
+    color: white;
+    font-style: courier new;
+    font-size: 15px;
+    padding: 10px;
+    margin: 5px;
+    margin-top: 20px;
+}
+
+#character-form {
+    text-align: right;
+}
+
+#character-input {
+    color: #000;
+}
+
+#add-character {
+    color: #000;
+}
