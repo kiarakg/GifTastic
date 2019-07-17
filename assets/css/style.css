@@ -1,40 +1,39 @@
 body {
-    font-family: 'Times New Roman', Times, serif;
-    background: #900009;
-    color: #fff;
+	font-family: 'Noto Sans', sans-serif;
+	background: #900009;
+	color: #fff;
 }
 
 .container {
-    position: relative;
+	position: relative;
 }
 
 header.jumbotron {
-    background: #c12c1e;
-    border-radius: 24px;
+	background: #C12C1E;
+	border-radius: 24px;
 }
 
 p {
-    font-family: 'space mono', monospace;
-    padding-top: 10px;
-    font-size: 18px;
+	font-family: 'Space Mono', monospace;
+	padding-top: 10px;
+	font-size: 18px;
+
 }
 
+
 h1 {
-    font-family: 'space mono', monospace;
-    font-style: bold;
-    font-size: 22px;
-    text-align: center;
-    position: relative;
-    letter-spacing: 8px;
+	font-family: 'Space Mono', monospace;
+	font-style: bold;
+	font-size: 22px;
+	text-align: center;
+	position: relative;
+	letter-spacing: 8px;
 }
 
 h3 {
-    font-family: 'space mono', monospace;
-    color: orange;
-    padding-right: 10px;
-    padding-bottom: 10px;
+	font-family: 'Space Mono', monospace;
+	color: orange;
+	padding-right: 10px;
+	padding-bottom: 10px;
 }
 
-#character-form {
-    text-align: right;
-}
