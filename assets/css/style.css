@@ -10,7 +10,7 @@ body {
 
 header.jumbotron {
 	background: #C12C1E;
-	border-radius: 24px;
+    border-radius: 24px;
 }
 
 p {
@@ -19,7 +19,6 @@ p {
 	font-size: 18px;
 
 }
-
 
 h1 {
 	font-family: 'Space Mono', monospace;
@@ -38,7 +37,7 @@ h3 {
 }
 
 .game-of-thrones {
-    background: black;
+    background:rgb(71, 27, 24);
     border-radius: 12px;
     color: white;
     font-style: courier new;
@@ -58,4 +57,8 @@ h3 {
 
 #add-character {
     color: #000;
+}
+
+footer {
+    padding: 15px;
 }

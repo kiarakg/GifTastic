@@ -77,13 +77,14 @@ $(document).ready(function() {
 
     }); // end of document on click
 
+
            //adding new button to array
            $(document).on('click', '#add-character', function(){
             if ($('#character-input').val().trim() == ''){
               alert('Input can not be left blank');
            }
            else {
-            var movies = $('#character-input').val().trim();
+            var topics = $('#character-input').val().trim();
             topics.push(character);
             $('#charcter-input').val('');
             renderButtons();
@@ -91,5 +92,6 @@ $(document).ready(function() {
 
             }
 
-        });
+    });
+
 });
