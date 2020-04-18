@@ -1,7 +1,5 @@
 # GifTastic: Game of Thrones Gifs
 
-https://kiarakg.github.io/GifTastic/
-
 ## Description
 The page grabs 10 static, non-animated Game of Thrones gif images from the GIPHY API.
 
@@ -11,6 +9,10 @@ Under every gif, a rating of (PG, G, and so on) is displayed.
 * This data is provided by the GIPHY API.
 
 The user can add other Game of Thrones character Gifs in the search engine.
+
+## [GifTastic App](https://kiarakg.github.io/GifTastic/)
+
+![pic](/assets/images/GifTastic.png)
 
 ## Built With:
 * HTML
